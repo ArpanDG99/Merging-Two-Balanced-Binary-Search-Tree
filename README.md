@@ -15,6 +15,7 @@ METHOD 2 (Merge Inorder Traversals):-
 Time complexity of this method is O(m+n) which is better than method 1. This method takes O(m+n) time even if the input BSTs are not balanced. 
  
 **I used the 2nd method in my code and used python programming language.
+
 **In the following solutions, it is assumed that sizes of trees are also given as input. If the size is not given, then we can get the size by traversing the tree.
 
 OUTPUT:-
